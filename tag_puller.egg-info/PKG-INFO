@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: tag-puller
+Version: 0.3b
+Summary: Tag puller plugin for django
+Home-page: http://www.atvc.ru
+Author: outsider
+Author-email: outsider@atvc.ru
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Framework :: Django
